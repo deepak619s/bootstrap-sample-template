@@ -5,7 +5,7 @@
 
 ## Tech Stack
 
-**Client:**  Html, Css, React
+**Client:**  Html, Css, Bootstrap
 
 
 
